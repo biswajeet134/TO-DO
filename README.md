@@ -28,12 +28,15 @@ This is a simple yet powerful Todo List application built with React and styled 
 
 ```bash
 cd todo-list-app
+```
 3.Install dependencies:
 
 ```bash
 npm install
+```
 4.Start the development server:
 
 ```bash
 npm start
+```
 Open your browser and navigate to http://localhost:3000 to view the application.
